@@ -9,3 +9,5 @@ Also in this binary is support for mesh and relayd, so it's configurable for man
 Look at the .manifest file for details of all the packages included in the binary.
 
 Use at your own risk of course.
+
+P.S.  I've added an updated tailscale package to upgrade to 1.80.2-r1.  The included 1.58.2-1 has an unknown security flaw.
