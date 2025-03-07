@@ -10,6 +10,6 @@ Look at the .manifest file for details of all the packages included in the binar
 
 Use at your own risk of course.
 
-P.S.  I've added an newer tailscale package to upgrade to 1.80.2-r1.  The included 1.58.2-1 has an unknown security flaw.
+P.S.  I've added an newer tailscale package to upgrade to 1.80.3-r1.  The included 1.58.2-1 has an unknown security flaw.
 To install the update, you have to remove the luci-app-tailscale package first.  I've included that package here separately too so
 that you can re-install it after upgrading.
